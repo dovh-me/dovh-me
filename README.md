@@ -68,3 +68,6 @@ Generally goes by `<DOVH/>`
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" /></a>
 <a href="https://github.com/"><img style="box-shadow: 1px 1px 5px 5px #eee;
 }" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" /></a>
+
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dovh-me&theme=dark" width="48%" >
