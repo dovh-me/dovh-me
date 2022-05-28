@@ -7,7 +7,7 @@
   gender: 'male👦🏽',
   country: 'Sri Lanka 🇱🇰',
   passion: 'Programming 👨🏽‍💻',
-  personality: ['introverted🔇','nerd🤓','sicko😷','flirty😏','*kind😺']
+  personality: ['introverted🔇','nerd🤓','sicko😷','flirty😏','*kind😺'],
   finance: 'BROKE📉',
   relationshipStat: RlpStat.FOREVER_SINGLE🕴,
   isDead: false
