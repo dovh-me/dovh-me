@@ -35,28 +35,13 @@
 
 
 ### Hi I am Osura👋
-
-<!--
-**dovh-me/dovh-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm a computer science undergraduate. Also a passionate programmer stuck in QA (Love the company tho ❤️) 😿
 
  - 👷‍♂️Currently working on multiple projects
  - 📚Currently learning flutter, nodeJS and full stack web technologies
  - ☁️ Have a huge interest in learning serverless technologies 😻
  - 🤓Ask me about JS, NodeJS, Cypress. (I consider myself a pro in cypress but theres a lot that I don't know 😂)
- - 🥰I'm looking to collaborate with any interesting side projects ideas. (Willing to learn new technologies)
+ - 🥰Actively in search of collaborators with any interesting side projects ideas. (Willing to learn new technologies)
  - 💯Fact: I try to learn everything I don't know 😌.
  - 🎈Fun Fact: A pet lover without a real pet 😂
 
