@@ -57,7 +57,7 @@ Generally goes by `<DOVH/>`
 <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" /></a>
 <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" /></a>
 <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" /></a>
-<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" /></a>
+<a href="https://expressjs.com/"><img src="https://cdn.discordapp.com/attachments/922111827171758110/979995665084084275/unknown.png" height="50" /></a>
 <a href="https://socket.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" /></a>
 <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" /></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" /></a>
@@ -67,8 +67,13 @@ Generally goes by `<DOVH/>`
 <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" /></a>
 <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" /></a>
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" /></a>
-<a href="https://github.com/"><img style="box-shadow: 1px 1px 5px 5px #eee;
-}" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" /></a>
+<a href="https://github.com/">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/922111827171758110/980004387206344714/GitHub-Mark-Light-120px-plus.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/922111827171758110/980004386933727232/GitHub-Mark-120px-plus.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" >
+</picture>
+</a>
 
 <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dovh-me&theme=dark" width="48%" >
