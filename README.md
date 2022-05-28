@@ -15,7 +15,6 @@
 
  🧔🏽.on('death', () => {
   🧔🏽.isDead = true;
-  delete 🧔🏽;
  });
 
  toLearn = [];
@@ -30,6 +29,8 @@
   const skill = await learn(toLearn.shift());
   learnt.push(skill);
  }
+ 
+ delete 🧔🏽;
 })();
 ```
 
