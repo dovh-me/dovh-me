@@ -1,3 +1,39 @@
+```JS
+(async function() {
+ let toLearn, learnt, 🧔🏽;
+ 
+ 🧔🏽 = new Hooman({
+  name: 'Osura Hettiarachchi',
+  gender: 'male👦🏽',
+  country: 'Sri Lanka 🇱🇰',
+  passion: 'Programming 👨🏽‍💻',
+  personality: ['introverted🔇','nerd🤓','sicko😷','flirty😏','*kind😺']
+  finance: 'BROKE📉',
+  relationshipStat: RlpStat.FOREVER_SINGLE🕴,
+  isDead: false
+ });
+
+ 🧔🏽.on('death', () => {
+  🧔🏽.isDead = true;
+  delete 🧔🏽;
+ });
+
+ toLearn = [];
+ learnt = [];
+
+ setInterval(() => {
+  toLearn = [...toLearn, await fetch('everything from everywhere')];
+ }, 10);
+
+ 
+ while(!🧔🏽.isDead) {
+  const skill = await learn(toLearn.shift());
+  learnt.push(skill);
+ }
+})();
+```
+
+
 ### Hi I am Osura👋
 
 <!--
