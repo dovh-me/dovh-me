@@ -1,3 +1,19 @@
+### Hi I am Osura👋
+I'm a computer science undergraduate. Also a passionate programmer stuck in QA (Love the company tho ❤️) 😿
+
+ - 👷‍♂️Currently working on multiple projects
+ - 📚Currently learning flutter, nodeJS and full stack web technologies
+ - ☁️ Have a huge interest in learning serverless technologies 😻
+ - 🤓Ask me about JS, NodeJS, Cypress. (I consider myself a pro in cypress but theres a lot that I don't know 😂)
+ - 🥰Actively in search of collaborators with any interesting side projects ideas. (Willing to learn new technologies)
+ - 💯Fact: I try to learn everything I don't know 😌.
+ - 🎈Fun Fact: A pet lover without a real pet 😂
+
+Gaming 🎮: Mightydude/ Zoullzz
+
+Generally goes by `<DOVH/>`
+
+
 ```JS
 (async function() {
  let toLearn, learnt, 🧔🏽;
@@ -34,23 +50,7 @@
 })();
 ```
 
-
-### Hi I am Osura👋
-I'm a computer science undergraduate. Also a passionate programmer stuck in QA (Love the company tho ❤️) 😿
-
- - 👷‍♂️Currently working on multiple projects
- - 📚Currently learning flutter, nodeJS and full stack web technologies
- - ☁️ Have a huge interest in learning serverless technologies 😻
- - 🤓Ask me about JS, NodeJS, Cypress. (I consider myself a pro in cypress but theres a lot that I don't know 😂)
- - 🥰Actively in search of collaborators with any interesting side projects ideas. (Willing to learn new technologies)
- - 💯Fact: I try to learn everything I don't know 😌.
- - 🎈Fun Fact: A pet lover without a real pet 😂
-
-Gaming 🎮: Mightydude/ Zoullzz
-
-Generally goes by `<DOVH/>`
-
-## Tech Stacks
+## Tech Stack
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" /></a>
 <a href="https://www.cypress.io/"><img src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg" height="40" /></a>
@@ -76,4 +76,6 @@ Generally goes by `<DOVH/>`
 </a>
 
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dovh-me&theme=dark" width="60%" >
+<br />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dovh-me&theme=dark" width="100%" >
