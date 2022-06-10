@@ -1,11 +1,11 @@
 ### Hi I am Osura👋
 I'm a computer science undergraduate. Also a passionate programmer stuck in QA (Love the company tho ❤️) 😿
 
- - 👷‍♂️Currently working on multiple projects
- - 📚Currently learning flutter, nodeJS and full stack web technologies
+ - 👷‍♂️ Currently doing internship on QA/Automation at DirectFN Sri Lanka
+ - 📚 Focused on learning flutter, nodeJS and full stack web technologies
  - ☁️ Have a huge interest in learning serverless technologies 😻
- - 🤓Ask me about JS, NodeJS, Cypress. (I consider myself a pro in cypress but theres a lot that I don't know 😂)
- - 🥰Actively in search of collaborators with any interesting side projects ideas. (Willing to learn new technologies)
+ - 🤓Ask me about JS, NodeJS, Cypress. (There's a lot that I don't know 😂)
+ - 🥰Actively in search of collaborators with any interesting side projects ideas.
  - 💯Fact: I try to learn everything I don't know 😌.
  - 🎈Fun Fact: A pet lover without a real pet 😂
 
