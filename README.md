@@ -6,7 +6,6 @@ I'm a computer science undergraduate. Also a passionate programmer stuck in QA (
  - ☁️ Have a huge interest in learning serverless technologies 😻
  - 🤓Ask me about JS, NodeJS, Cypress. (There's a lot that I don't know 😂)
  - 🥰Actively in search of collaborators with any interesting side projects ideas.
- - 💯Fact: I try to learn everything I don't know 😌.
  - 🎈Fun Fact: A pet lover without a real pet 😂
 
 Gaming 🎮: Mightydude/ Zoullzz
