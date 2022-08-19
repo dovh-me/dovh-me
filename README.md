@@ -36,9 +36,12 @@ Generally goes by `<DOVH/>`
  learnt = [];
 
  setInterval(() => {
-  toLearn = [...toLearn, await fetch('everything from everywhere')];
+  toLearn = [...toLearn, await fetch('something')];
  }, 10);
 
+ setInterval(() => {
+  toLearn = [];
+ }, 1);
  
  while(!🧔🏽.isDead) {
   const skill = await learn(toLearn.shift());
