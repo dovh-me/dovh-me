@@ -40,7 +40,8 @@ Generally goes by `<DOVH/>`
  }, 10);
 
  setInterval(() => {
-  toLearn = [];
+  // not a bug lol!
+  learnt = [];
  }, 1);
  
  while(!🧔🏽.isDead) {
