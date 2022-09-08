@@ -4,13 +4,13 @@ I'm a computer science undergraduate. Also a passionate programmer stuck in QA (
  - 👷‍♂️ Currently doing internship on QA/Automation at DirectFN Sri Lanka
  - 📚 Focused on learning flutter, nodeJS and full stack web technologies
  - ☁️ Have a huge interest in learning serverless technologies 😻
- - 🤓Ask me about JS, NodeJS, Cypress. (There's a lot that I don't know 😂)
+ - 🤓Ask me about JS, NodeJS, Cypress
  - 🥰Actively in search of collaborators with any interesting side projects ideas.
- - 🎈Fun Fact: A pet lover without a real pet 😂
+ - 🎈Fun Fact: Not gifted but not bad 😂
 
 Gaming 🎮: Mightydude/ Zoullzz
 
-Generally goes by `<DOVH/>`
+Goes by `<DOVH/>`
 
 
 ```JS
@@ -22,9 +22,9 @@ Generally goes by `<DOVH/>`
   gender: 'male👦🏽',
   country: 'Sri Lanka 🇱🇰',
   passion: 'Programming 👨🏽‍💻',
-  personality: ['introverted🔇','nerd🤓','sicko😷','flirty😏','*kind😺'],
-  finance: 'BROKE📉',
-  relationshipStat: RlpStat.FOREVER_SINGLE🕴,
+  personality: ['introverted🔇','nerd🤓','sicko😷','flirty😏','innocent😺'],
+  finStatus: 'BROKE📉',
+  relationshipStat: RlpStat.UNKNOWN🕴,
   isDead: false
  });
 
@@ -36,13 +36,8 @@ Generally goes by `<DOVH/>`
  learnt = [];
 
  setInterval(() => {
-  toLearn = [...toLearn, await fetch('something')];
+  toLearn = [...toLearn, await fetch('new thing')];
  }, 10);
-
- setInterval(() => {
-  // not a bug lol!
-  learnt = [];
- }, 1);
  
  while(!🧔🏽.isDead) {
   const skill = await learn(toLearn.shift());
