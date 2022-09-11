@@ -11,28 +11,8 @@ Gaming 🎮: Mightydude/ Zoullzz
 Goes by `<DOVH/>`
 
 
-```JS
-(async function() {
- let 🧔🏽;
- 
- 🧔🏽 = new Hooman({
-  name: 'Osura Hettiarachchi',
-  gender: 'male👦🏽',
-  country: 'Sri Lanka 🇱🇰',
-  passion: 'Programming 👨🏽‍💻',
-  personality: ['introverted🔇','nerd🤓','sicko😷','flirty😏','innocent😺'],
-  finStatus: 'BROKE📉',
-  relationshipStat: RlpStat.UNKNOWN🕴,
-  isDead: false
- });
+>***Detachment is the key to happiness***
 
- 🧔🏽.on('death', () => {
-  🧔🏽.isDead = true;
-   delete 🧔🏽;
- });
- 
-})();
-```
 
 ## Tech Stack
 <p align="center">
