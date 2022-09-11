@@ -3,10 +3,8 @@ I'm a computer science undergraduate. Also a passionate programmer stuck in QA �
 
  - 👷‍♂️ Currently doing internship on QA/Automation at DirectFN Sri Lanka
  - 📚 Focused on learning flutter, nodeJS and full stack web technologies
- - ☁️ Have a huge interest in learning serverless technologies 😻
+ - ☁️ Interested in serverless 😻
  - 🤓Ask me about JS, NodeJS, Cypress
- - 🥰Actively in search of collaborators with any interesting side projects ideas.
- - 🎈Fun Fact: Not gifted but not bad 😂
 
 Gaming 🎮: Mightydude/ Zoullzz
 
@@ -15,7 +13,7 @@ Goes by `<DOVH/>`
 
 ```JS
 (async function() {
- let toLearn, learnt, 🧔🏽;
+ let 🧔🏽;
  
  🧔🏽 = new Hooman({
   name: 'Osura Hettiarachchi',
@@ -30,21 +28,9 @@ Goes by `<DOVH/>`
 
  🧔🏽.on('death', () => {
   🧔🏽.isDead = true;
+   delete 🧔🏽;
  });
-
- toLearn = [];
- learnt = [];
-
- setInterval(() => {
-  toLearn = [...toLearn, await fetch('new thing')];
- }, 10);
  
- while(!🧔🏽.isDead) {
-  const skill = await learn(toLearn.shift());
-  learnt.push(skill);
- }
- 
- delete 🧔🏽;
 })();
 ```
 
