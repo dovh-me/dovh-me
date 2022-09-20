@@ -25,7 +25,6 @@ Goes by `<DOVH/>`
 <a href="https://expressjs.com/"><img src="https://cdn.discordapp.com/attachments/922111827171758110/979995665084084275/unknown.png" height="45" /></a>
 <a href="https://socket.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="45" /></a>
 <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" /></a>
-<a href="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" /></a>
 <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="45" /></a>
 <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" /></a>
