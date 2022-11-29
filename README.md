@@ -1,5 +1,5 @@
 ### Hi I am Osura👋
-I'm a computer science undergraduate. Also a passionate programmer stuck in QA 😿
+I'm a computer science undergraduate trying to learn as much as possible.
 
  - 👷‍♂️ Currently doing internship on QA/Automation at DirectFN Sri Lanka
  - 📚 Focused on learning flutter, nodeJS and full stack web technologies
