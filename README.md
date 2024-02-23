@@ -1,15 +1,16 @@
 ### Hi I am Osura👋
-I'm a computer science undergraduate trying to learn as much as possible.
+Computer nerd who happens to be a computer science undergraduate.
 
- - 👷‍♂️ Currently doing internship on QA/Automation at DirectFN Sri Lanka
- - 📚 Focused on learning flutter, nodeJS and full stack web technologies
+ - 👷‍♂️ Currently a Software engineering intern at DirectFN Sri Lanka (3 years)
+ - 📚 Focused on react, react native, nodeJS and other full stack web technologies
  - ☁️ Interested in serverless 😻
- - 🤓Ask me about JS, NodeJS, Cypress
+ - 🤓Ask me about Javascript/Typescript, NodeJS, Cypress
 
-Gaming 🎮: Mightydude/ Zoullzz
+Gaming 🎮: `Mightydude` / `Zoullzz`
 
 Goes by `<DOVH/>`
 
+Portfolio 💼: <a href="https://www.dovh.me">`https://www.dovh.me`</a>
 
 >***Detachment is the key to happiness***
 
@@ -22,7 +23,7 @@ Goes by `<DOVH/>`
 <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45" /></a>
 <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" /></a>
 <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" /></a>
-<a href="https://expressjs.com/"><img src="https://cdn.discordapp.com/attachments/922111827171758110/979995665084084275/unknown.png" height="45" /></a>
+<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="45" /></a>
 <a href="https://socket.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="45" /></a>
 <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" /></a>
