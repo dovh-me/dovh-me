@@ -1,10 +1,10 @@
 ### Hi I am Osura👋
-Computer nerd who happens to be a computer science undergraduate.
+Programming nerd who happens to be a computer science undergraduate.
 
- - 👷‍♂️ Currently a Software engineering intern at DirectFN Sri Lanka (3 years)
+ - 👷‍♂️ Currently a Software engineering intern at DirectFN Sri Lanka (4 years)
  - 📚 Focused on react, react native, nodeJS and other full stack web technologies
  - ☁️ Interested in serverless 😻
- - 🤓Ask me about Javascript/Typescript, NodeJS, Cypress
+ - 🤓 Ask me about Javascript/Typescript, NodeJS, Cypress
 
 Gaming 🎮: `Mightydude` / `Zoullzz`
 
