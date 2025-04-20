@@ -7,6 +7,7 @@
 </p>
 
 <br />
+
 Programming nerd who happens to be a computer science undergraduate.
  - 👷‍♂️ A Software engineering professional with 4 years+ experience
  - 📚 Focused on react, react native, nodeJS and other full stack web/mobile technologies
