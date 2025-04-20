@@ -1,6 +1,13 @@
-### Hi I am Osura👋
-Programming nerd who happens to be a computer science undergraduate.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-header-image.png">
+  <source media="(prefers-color-scheme: light)" srcset="./github-header-image.png">
+  <img alt="Osura Hettiarachchi" src="./github-header-image.png" width="80%" >
+</picture> 
+</p>
 
+<br />
+Programming nerd who happens to be a computer science undergraduate.
  - 👷‍♂️ A Software engineering professional with 4 years+ experience
  - 📚 Focused on react, react native, nodeJS and other full stack web/mobile technologies
  - ☁️ Interested in serverless 😻
@@ -36,7 +43,7 @@ Portfolio 💼: <a href="https://www.dovh.me">`https://www.dovh.me`</a>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/922111827171758110/980004387206344714/GitHub-Mark-Light-120px-plus.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/922111827171758110/980004386933727232/GitHub-Mark-120px-plus.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" >
+  <img alt="Github contributions banner" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" >
 </picture>
 </a>
 </p>
